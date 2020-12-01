@@ -5,9 +5,9 @@ package issue438
 
 import (
 	fmt "fmt"
-	_ "github.com/gogo/protobuf/gogoproto"
-	proto "github.com/gogo/protobuf/proto"
-	types "github.com/gogo/protobuf/types"
+	_ "github.com/regiocom/protobuf/gogoproto"
+	proto "github.com/regiocom/protobuf/proto"
+	types "github.com/regiocom/protobuf/types"
 	math "math"
 	math_bits "math/bits"
 )

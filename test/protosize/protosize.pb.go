@@ -6,8 +6,8 @@ package protosize
 import (
 	bytes "bytes"
 	fmt "fmt"
-	_ "github.com/gogo/protobuf/gogoproto"
-	proto "github.com/gogo/protobuf/proto"
+	_ "github.com/regiocom/protobuf/gogoproto"
+	proto "github.com/regiocom/protobuf/proto"
 	io "io"
 	math "math"
 	math_bits "math/bits"
